@@ -1,0 +1,21 @@
+body{
+background-color: crimson;
+    text-align: center;
+}
+.line{
+height: 6px;
+width: 70px;
+background-color: darkred;
+margin: 8px auto;
+}
+h1{
+font-size: 35px;
+    
+    
+    
+    
+    
+    
+color: orange;
+font-family: monospace;
+}
